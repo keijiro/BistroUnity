@@ -1,0 +1,14 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+
+/Library
+/Logs
+/Recordings
+/Temp
+/UserSettings
+
+/Assets/Bistro_v5_2/*.*
+/Assets/Bistro_v5_2/**/*.*
+!/Assets/Bistro_v5_2/**/*.meta
