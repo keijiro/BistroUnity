@@ -12,9 +12,9 @@ This project uses Unity 6 Beta with HDRP.
 ## How to open the project
 
 - Clone this repository.
-- Download and extract `Bistro_v5_2.zip`.
+- Download and extract `Bistro_v5_2.zip`
 - Replace `Assets/Bistro_v5_2` with the extracted directory.
-- Restore the removed files `git restore Assets/Bistro_v5_2`.
+- Restore the removed files (`git restore Assets/Bistro_v5_2`)
 - Open the project with Unity Editor.
-- Go to the Main Menu -> "Assets" -> "Bistro" -> "Remove Unsupported Textures".
-- Reimport `Assets/Bistro_v5_2/BistroExterior.fbx`.
+- Go to the Main Menu -> "Assets" -> "Bistro" -> "Remove Unsupported Textures"
+- Reimport `Assets/Bistro_v5_2/BistroExterior.fbx`
