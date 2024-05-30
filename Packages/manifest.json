@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.recorder": "5.1.0",
-    "com.unity.render-pipelines.high-definition": "17.0.2"
+    "com.unity.render-pipelines.high-definition": "17.0.3"
   },
   "scopedRegistries": [
     {
